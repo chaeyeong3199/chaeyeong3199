@@ -37,14 +37,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
-<h2 align="left">🏆 Awards</h2>
-
-<p align="left">
-- <strong>2023 DAU DevDay 대상</strong><br/>
-- <strong>2024 전국 대학 소프트웨어 성과 공유 포럼 인기상, 혁신상</strong><br/>
-- <strong>2024 DAU DevDay 최우수상</strong><br/>
-- <strong>2025 지역현안 캡스톤디자인 경진대회 팀워크상</strong>
-</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaeyeong3199&theme=react-light&bg_color=ffffff&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </p>
