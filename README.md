@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/5e863d51-17fb-487c-9b2b-0ca96a240f43" alt="Chaeyeong's GitHub Header" />
-</p>
+![cylinder](https://capsule-render.vercel.app/api?type=cylinder&color=auto&text=Chaeyeong's%20Github&fontAlignY=45&fontSize=40&height=150&animation=blinking&desc=Hi%20there%20👋&descAlignY=70)
 
-<h2 align="center">📫 Contact</h2>
+<h2 align="left">📫 Contact</h2>
 
-<p align="center">
+<p align="left">
   <a href="mailto:codud1704@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -16,18 +14,9 @@
   </a>
 </p>
 
-<h2 align="center">🏆 Awards</h2>
+<h2 align="left">🧩 Tech Stack</h2>
 
-<p align="center">
-- <strong>2023 DAU DevDay 대상</strong><br/>
-- <strong>2024 전국 대학 소프트웨어 성과 공유 포럼 인기상, 혁신상</strong><br/>
-- <strong>2024 DAU DevDay 최우수상</strong><br/>
-- <strong>2025 지역현안 캡스톤디자인 경진대회 팀워크상</strong>
-</p>
-
-<h2 align="center">🧩 Tech Stack</h2>
-
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
@@ -48,6 +37,14 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
+<h2 align="left">🏆 Awards</h2>
+
+<p align="left">
+- <strong>2023 DAU DevDay 대상</strong><br/>
+- <strong>2024 전국 대학 소프트웨어 성과 공유 포럼 인기상, 혁신상</strong><br/>
+- <strong>2024 DAU DevDay 최우수상</strong><br/>
+- <strong>2025 지역현안 캡스톤디자인 경진대회 팀워크상</strong>
+</p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=chaeyeong3199&theme=react-light&bg_color=ffffff&hide_border=true&line=58A6FF&color=58A6FF" width="94%"/>
 </p>
